@@ -12,5 +12,5 @@ pip3 install requests
 pip3 install pytz  
 pip3 install humanfriendly  
 git clone https://github.com/wuyuan0408/neoself  
-cd botline neoself
+cd neoself
 python3 x.py  
