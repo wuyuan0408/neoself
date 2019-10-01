@@ -3,7 +3,9 @@ YT硯哥 特製半垢
 安裝termux  
 打開輸入  
 pkg update -y  
-pkg upgrade -y  
+pkg upgrade -y 
+apt update -y
+apt upgrade -y
 pkg install python3 -y  
 pkg install git -y  
 pip3 install rsa  
